@@ -1,1 +1,2 @@
 Project Development Guidelines: \n- Write clean and maintainable code\n- Follow Git best practices\n- Write unit tests for all major features
+feature1 implementation details: This feature adds functionality X to the project.
