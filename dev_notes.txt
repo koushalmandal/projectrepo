@@ -1,1 +1,2 @@
 initial development notes
+More detailed development notes.
