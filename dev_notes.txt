@@ -1,2 +1,1 @@
-initial development notes
-More detailed development notes.
+Initial development notes
